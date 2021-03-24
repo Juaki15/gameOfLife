@@ -4,6 +4,11 @@ import dominio.Tablero;
 import java.util.concurrent.TimeUnit;
 import java.lang.InterruptedException;
 
+/**
+ * Clase que sirve para iniciar y empezar a simular el juego de la vida
+ * @author Joaquin Moreno Guzman
+ * @version 24-03-2021
+ */
 public class Principal {
 	public static void main (String args[]){
 		try{
