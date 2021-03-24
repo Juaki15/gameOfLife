@@ -2,10 +2,10 @@ Copyright 2002 Joaquin Moreno Guzmán Licensed under the Apache License, Version
 
 README
 Para que sirve este repositorio
-El objetivo de este repositorio es obtener una aproximacio del numero pi a partir del metodo de Montecarlo
+El objetivo de este repositorio es hacer una simulación del juego de la vida
 Version Final
-Como se usa
-Para ejecutar el programa use el comando "java -jar principal.jar numeroDePuntosAUsar.Para generar el archivo .jar ejecute el comando make run. Cuanto mayor sea el numero de puntos que utilice mayor sera la precision del numero pi.
+Como funcionaa
+Se puede leer tanto una matriz que se haya metido en un archivo creado anteriormente como generar una aleatoria y a partir de ahi se irá actualizando según las reglas del juego de la vida.
 
 Dueño del repositorio
 Joaquín Moreno Guzmán ~
