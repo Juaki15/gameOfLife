@@ -55,9 +55,9 @@ public class Tablero {
     				}
     			}
     			if (estadoActual[i][j] == estadoActual[29][0]) {
-    				if (estadoActual[i-1][j]==1) {
+    				/*if (estadoActual[i-1][j]==1) {
     					c+=1;
-    				}
+    				}*/
     				if (estadoActual[i][j+1] == 1) {
     					c+=1;
     				}
